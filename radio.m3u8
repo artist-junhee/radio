@@ -97,6 +97,52 @@ https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
 #EXTINF:0,라디오코리아
 https://onairweb.radiokorea.com/live;stream/1
+#EXTINF:-1,AFN HUMPHREYS
+https://13743.live.streamtheworld.com/AFNP_OSNAAC.aac
+#EXTINF:-1,AFN DAEGU
+https://13743.live.streamtheworld.com/AFNP_DGUAAC.aac
+#EXTINF:-1,AFN IWAKUNI
+https://17803.live.streamtheworld.com/AFNP_IWAAAC.aac
+#EXTINF:-1,AFN KUNSAN
+https://13743.live.streamtheworld.com/AFNP_KSNAAC.aac
+#EXTINF:-1,AFN MISAWA
+https://19263.live.streamtheworld.com/AFNP_MSWAAC.aac
+#EXTINF:-1,AFN OKINAWA
+https://25633.live.streamtheworld.com/AFNP_OKNAAC.aac
+#EXTINF:-1,AFN SASEBO
+https://18393.live.streamtheworld.com/AFNP_SBOAAC.aac
+#EXTINF:-1,AFN TOKYO
+https://18393.live.streamtheworld.com/AFNP_TKOAAC.aac
+#EXTINF:-1,AFN AVIANO
+https://27793.live.streamtheworld.com/AFNE_AVNAAC.aac
+#EXTINF:-1,AFN BAHRAIN
+https://25433.live.streamtheworld.com/AFNE_BHNAAC.aac
+#EXTINF:-1,AFN BAVARIA
+https://25533.live.streamtheworld.com/AFNE_BAVAAC.aac
+#EXTINF:-1,AFN BENELUX
+https://27913.live.streamtheworld.com/AFNE_BLXAAC.aac
+#EXTINF:-1,AFN GUANTANAMO BAY
+https://23543.live.streamtheworld.com/AFNE_GMOAAC.aac
+#EXTINF:-1,AFN INCIRLIK
+https://22603.live.streamtheworld.com/AFNE_ICKAAC.aac
+#EXTINF:-1,AFN KAISERSLAUTERN
+https://27823.live.streamtheworld.com/AFNE_KTNAAC.aac
+#EXTINF:-1,AFN NAPLES
+https://22673.live.streamtheworld.com/AFNE_NAPAAC.aac
+#EXTINF:-1,AFN ROTA
+https://27743.live.streamtheworld.com/AFNE_RTAAAC.aac
+#EXTINF:-1,AFN SIGONELLA
+https://23603.live.streamtheworld.com/AFNE_SIGAAC.aac
+#EXTINF:-1,AFN SOUDA BAY
+https://27943.live.streamtheworld.com/AFNE_SDBAAC.aac
+#EXTINF:-1,AFN SPANGDAHLEM
+https://27943.live.streamtheworld.com/AFNE_SPGAAC.aac
+#EXTINF:-1,AFN STUTTGART
+https://25583.live.streamtheworld.com/AFNE_STUAAC.aac
+#EXTINF:-1,AFN VICENZA
+https://27753.live.streamtheworld.com/AFNE_VICAAC.aac
+#EXTINF:-1,AFN WIESBADEN
+https://27823.live.streamtheworld.com/AFNE_WBNAAC.aac
 #EXTINF:0,BBC - Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:0,BBC - Radio 1Xtra
