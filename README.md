@@ -1,4 +1,4 @@
-스마일 라디오 모음집 메인 홈페이지 코드는 "LittleLink"
+스마일 라디오 모음집 메인 홈페이지 코드는 "LittleLink" 기반입니다.
 
 MAIN HOMEPAGE CODE BY "LittleLink"
 
@@ -19,6 +19,3 @@ Domain provided by https://www.noip.com/
 This project is operated for non-profit purposes and does not engage in any commercial activities.
 All radio copyrights belong to their respective broadcasting stations, and this site is operated to facilitate easy radio listening.
 Radio broadcasts are provided through the original internet radio streaming services of each broadcasting station.
-
-
-
