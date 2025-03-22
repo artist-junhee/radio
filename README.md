@@ -9,10 +9,13 @@ Smile Radio Collection GITHUB (GitHub) Development Page.
 
 MAKE BY JAKE LEE
 
-이 사이트는 비영리 목적으로 운영되며, 영리적 행위를 하지 않습니다.
+이 프로젝는 비영리 목적으로 운영되며, 영리적 행위를 하지 않습니다.
 모든 라디오 저작권은 각 방송국에 있으며, 이 사이트는 간편하게 라디오를 청취할 수 있도록 돕기 위해 운영됩니다.
 라디오 방송은 각 방송국의 원본 인터넷 라디오 스트리밍 서비스를 통해 제공됩니다.
 
-This site is operated for non-profit purposes and does not engage in any commercial activities.
+This project is operated for non-profit purposes and does not engage in any commercial activities.
 All radio copyrights belong to their respective broadcasting stations, and this site is operated to facilitate easy radio listening.
 Radio broadcasts are provided through the original internet radio streaming services of each broadcasting station.
+
+
+
