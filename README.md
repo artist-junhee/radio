@@ -5,6 +5,9 @@ MAIN HOMEPAGE CODE BY "LittleLink"
 스마일 라디오 모음집 GITHUB (깃허브) 개발 페이지입니다.
 Smile Radio Collection GITHUB (GitHub) Development Page.
 
+Domain provided by https://www.noip.com/
+도메인 제공: https://www.noip.com/
+
 제작자 : 제이크 리
 
 MAKE BY JAKE LEE
