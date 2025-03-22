@@ -6,7 +6,8 @@ MAIN HOMEPAGE CODE BY "LittleLink"
 Smile Radio Collection GITHUB (GitHub) Development Page.
 
 Domain provided by https://www.noip.com/
-도메인 제공: https://www.noip.com/
+
+도메인 제공 : https://www.noip.com/
 
 제작자 : 제이크 리
 
