@@ -1,325 +1,323 @@
 #EXTM3U
-#EXTINF:-1,CBS 표준 FM (98.1)
+#EXTINF:0,CBS 표준 FM (98.1)
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/chunklist.m3u8
-#EXTINF:-1,CBS 음악 FM (93.9)
+#EXTINF:0,CBS 음악 FM (93.9)
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8
-#EXTINF:-1,CBS JOY4U
+#EXTINF:0,CBS JOY4U
 https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/chunklist.m3u8
-#EXTINF:-1,KBS 1 라디오 (97.3)
+#EXTINF:0,KBS 1 라디오 (97.3)
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1,KBS 2 라디오 (106.1)
+#EXTINF:0,KBS 2 라디오 (106.1)
 http://serpent0.duckdns.org:8088/kbs2radio.pls
-#EXTINF:-1,KBS 쿨 FM (89.1)
+#EXTINF:0,KBS 쿨 FM (89.1)
 http://serpent0.duckdns.org:8088/kbs2fm.pls
-#EXTINF:-1,KBS 클래식 FM (93.1)
+#EXTINF:0,KBS 클래식 FM (93.1)
 http://serpent0.duckdns.org:8088/kbsfm.pls
-#EXTINF:-1,MBC 표준 FM (95.9)
+#EXTINF:0,MBC 표준 FM (95.9)
 http://serpent0.duckdns.org:8088/mbcsfm.pls
-#EXTINF:-1,MBC FM4U (91.9)
+#EXTINF:0,MBC FM4U (91.9)
 http://serpent0.duckdns.org:8088/mbcfm.pls
-#EXTINF:-1,SBS 파워 FM (107.7)
+#EXTINF:0,SBS 파워 FM (107.7)
 http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:-1,SBS 러브 FM (103.5)
+#EXTINF:0,SBS 러브 FM (103.5)
 http://serpent0.duckdns.org:8088/sbs2fm.pls
-#EXTINF:-1,TBS FM (95.1)
+#EXTINF:0,TBS FM (95.1)
 https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8
-#EXTINF:-1,TBS eFM (101.3)
+#EXTINF:0,TBS eFM (101.3)
 https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8
-#EXTINF:-1,Arirang radio
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1,EBS FM (104.5)
+#EXTINF:0,EBS FM (104.5)
 http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-#EXTINF:-1,국악방송 (99.1)
+#EXTINF:0,국방FM
+https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
+#EXTINF:0,국악방송 (99.1)
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1,OBS 라디오
+#EXTINF:0,OBS 라디오
 https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
-#EXTINF:-1,서울극동방송 FM
+#EXTINF:0,Arirang radio
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:0,서울극동방송 FM
 http://mlive3.febc.net:1935/live/seoulfm/playlist.m3u8
-#EXTINF:-1,제주극동방송 FM
+#EXTINF:0,제주극동방송 FM
 http://mlive3.febc.net:1935/live/jejufm/playlist.m3u8
-#EXTINF:-1,대전극동방송 FM
+#EXTINF:0,대전극동방송 FM
 http://mlive3.febc.net:1935/live/djlive/playlist.m3u8
-#EXTINF:-1,창원극동방송 FM
+#EXTINF:0,창원극동방송 FM
 http://mlive3.febc.net:1935/live/cwlive/playlist.m3u8
-#EXTINF:-1,목포극동방송 FM
+#EXTINF:0,목포극동방송 FM
 http://mlive3.febc.net:1935/live/mplive/playlist.m3u8
-#EXTINF:-1,영동극동방송 FM
+#EXTINF:0,영동극동방송 FM
 http://mlive3.febc.net:1935/live/ydlive/playlist.m3u8
-#EXTINF:-1,포항극동방송 FM
+#EXTINF:0,포항극동방송 FM
 http://mlive3.febc.net:1935/live/phlive/playlist.m3u8
-#EXTINF:-1,울산극동방송 FM
+#EXTINF:0,울산극동방송 FM
 http://mlive3.febc.net:1935/live/uslive/playlist.m3u8
-#EXTINF:-1,부산극동방송 FM
+#EXTINF:0,부산극동방송 FM
 http://mlive3.febc.net:1935/live/bsfebc/playlist.m3u8
-#EXTINF:-1,대구극동방송 FM
+#EXTINF:0,대구극동방송 FM
 http://mlive3.febc.net:1935/live/daegulive/playlist.m3u8
-#EXTINF:-1,광주극동방송 FM
+#EXTINF:0,광주극동방송 FM
 http://mlive3.febc.net:1935/live/gjlive/playlist.m3u8
-#EXTINF:-1,전남동부극동방송 FM
+#EXTINF:0,전남동부극동방송 FM
 http://mlive3.febc.net:1935/live/jndblive/playlist.m3u8
-#EXTINF:-1,전북극동방송
+#EXTINF:0,전북극동방송
 http://mlive3.febc.net:1935/live/jblive/playlist.m3u8
-#EXTINF:-1,평화방송
+#EXTINF:0,평화방송
 https://onair1.cpbc.co.kr:8888/live/Instreamer.stream_aac/playlist.m3u8
-#EXTINF:-1,불교방송
+#EXTINF:0,불교방송
 https://bbslive.clouducs.com/bbsradio-live/livestream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 부산
-http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 광주
-http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 대구
-http://radio2.tbn.or.kr:1935/daegu/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 대전
-http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 경인
-http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 강원
-http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 전북
-http://radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 울산
-http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 경남
-http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 경북
-http://radio2.tbn.or.kr:1935/kyungbuk/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 제주
-http://radio2.tbn.or.kr:1935/jeju/myStream/playlist.m3u8
-#EXTINF:-1,TBN 한국교통방송 충북
-http://radio2.tbn.or.kr:1935/chungbuk/myStream/playlist.m3u8
-#EXTINF:-1,Oldpop Cafe
-http://cast.page2.kr:7080
-#EXTINF:-1,YTN RADIO
-https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
-#EXTINF:-1,RFA 자유아시아방송
-https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
-#EXTINF:-1,라디오코리아
-https://onairweb.radiokorea.com/live;stream/1
-#EXTINF:-1,라디오 서울
-http://45.58.5.209:8000/radioseoul.mp3
-#EXTINF:-1,라디오 한국
-http://50.222.186.230:8080/stream
-#EXTINF:-1,BBC Radio 1
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.pls
-#EXTINF:-1,BBC Radio 2
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_two/format/pls.pls
-#EXTINF:-1,BBC Radio 3
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_three/format/pls.pls
-#EXTINF:-1,BBC Radio 4
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_fourfm/format/pls.pls
-#EXTINF:-1,BBC Radio 5 Live
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_five_live/format/pls.pls
-#EXTINF:-1,BBC World Service
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
-#EXTINF:-1,AFN HUMPHREYS
-https://18243.live.streamtheworld.com/AFNP_OSNAAC.aac
-#EXTINF:-1,AFN DAEGU
-https://14023.live.streamtheworld.com/AFNP_DGUAAC.aac
-#EXTINF:-1,AFN IWAKUNI
-https://17803.live.streamtheworld.com/AFNP_IWAAAC.aac
-#EXTINF:-1,AFN KUNSAN
-https://25433.live.streamtheworld.com/AFNP_KSNAAC.aac
-#EXTINF:-1,AFN MISAWA
-https://18393.live.streamtheworld.com/AFNP_MSWAAC.aac
-#EXTINF:-1,AFN OKINAWA
-https://25653.live.streamtheworld.com/AFNP_OKNAAC.aac
-#EXTINF:-1,AFN SASEBO
-https://18393.live.streamtheworld.com/AFNP_SBOAAC.aac
-#EXTINF:-1,AFN TOKYO
-https://23543.live.streamtheworld.com/AFNP_TKOAAC.aac
-#EXTINF:-1,AFN AVIANO
-https://20863.live.streamtheworld.com/AFNE_AVNAAC.aac
-#EXTINF:-1,AFN BAHRAIN
-https://25583.live.streamtheworld.com/AFNE_BHNAAC.aac
-#EXTINF:-1,AFN BENELUX
-https://22603.live.streamtheworld.com/AFNE_BLXAAC.aac
-#EXTINF:-1,AFN GUANTANAMO BAY
-https://20073.live.streamtheworld.com/AFNE_GMOAAC.aac
-#EXTINF:-1,AFN INCIRLIK
-https://20073.live.streamtheworld.com/AFNE_ICKAAC.aac
-#EXTINF:-1,AFN KAISERSLAUTERN
-https://25533.live.streamtheworld.com/AFNE_KTNAAC.aac
-#EXTINF:-1,AFN NAPLES
-https://25493.live.streamtheworld.com/AFNE_NAPAAC.aac
-#EXTINF:-1,AFN ROTA
-https://20073.live.streamtheworld.com/AFNE_RTAAAC.aac
-#EXTINF:-1,AFN SIGONELLA
-https://20853.live.streamtheworld.com/AFNE_SIGAAC.aac
-#EXTINF:-1,AFN SOUDA BAY
-https://20073.live.streamtheworld.com/AFNE_SDBAAC.aac
-#EXTINF:-1,AFN SPANGDAHLEM
-https://20073.live.streamtheworld.com/AFNE_SPGAAC.aac
-#EXTINF:-1,AFN STUTTGART
-https://20853.live.streamtheworld.com/AFNE_STUAAC.aac
-#EXTINF:-1,AFN VICENZA
-https://25583.live.streamtheworld.com/AFNE_VICAAC.aac
-#EXTINF:-1,AFN WIESBADEN
-https://20723.live.streamtheworld.com/AFNE_WBNAAC.aac
-#EXTINF:-1,JAZZ 24
-https://live.wostreaming.net/playlist/ppm-jazz24aac256-ibc1.m3u
-#EXTINF:-1,Linn Radio
-http://radio.linn.co.uk:8003/autodj
-#EXTINF:-1,Linn Jazz
-http://radio.linn.co.uk:8000/autodj
-#EXTINF:-1,Linn Classical
-http://radio.linn.co.uk:8004/autodj
-#EXTINF:-1,클래식 HI-FI
-http://hifi.saycast.com/listen.pls
-#EXTINF:-1,La Radio de la Mer
-https://streaming.lamer.live/laradiodelamer-uhd.flac
-#EXTINF:-1,Bailrigg 95.3FM
-https://bfm-stream.lancs.ac.uk/flac
-#EXTINF:-1,ForEver La Radio Bordeaux
-http://stream.sweetfm.fr:8000/flac-forever-bdx
-#EXTINF:-1,ForEver La Radio Arcachon
-http://stream.sweetfm.fr:8000/flac-forever-arc
-#EXTINF:-1,Sanctuary Radio Dark Electro Channel
-http://66.94.113.88:8000/ultra_hq
-#EXTINF:-1,Sanctuary Radio 80’s Alternative Channel
-http://66.94.113.88:8000/retro_ultra_hq
-#EXTINF:-1,Sanctuary Radio Club Mix Channel
-http://66.94.113.88:8000/clubmix_ultra_hq
-#EXTINF:-1,Radio BluesFlac
-https://streams.radiomast.io/radioblues-flac
-#EXTINF:-1,Pure Lounge Radio
-https://mscp4.live-streams.nl:8142/lounge.ogg
-#EXTINF:-1,Pure Radio Holland The Undergound Channel
-https://streamserver.pure-isp.eu/radio/8000/flac
-#EXTINF:-1,Pure Radio Holland Trance-Electro Channel
-https://streamserver.pure-isp.eu/radio/8020/flac
-#EXTINF:-1,Pure Radio Holland Hardcore Channel
-https://streamserver.pure-isp.eu/radio/8010/flac
-#EXTINF:-1,Pure Radio Holland DownTempo Channel
-https://streamserver.pure-isp.eu/radio/8040/flac
-#EXTINF:-1,Pure Radio Holland Live Party Channel
-https://streamserver.pure-isp.eu/radio/8060/flac
-#EXTINF:-1,Pure Radio Holland Dance Channel
-https://streamserver.pure-isp.eu/radio/8030/flac
-#EXTINF:-1,Pure Radio Holland DJ R.I.P.’s Podcast
-https://streamserver.pure-isp.eu/radio/8050/flac
-#EXTINF:-1,Pure Radio Holland Various Channel
-https://streamserver.pure-isp.eu/radio/8070/flac
-#EXTINF:-1,Pure Radio Holland Rap & HIP-HOP Channel
-https://streamserver.pure-isp.eu/radio/8100/flac
-#EXTINF:-1,Ultimix
-http://stream.ultimix.fr:1050/stream
-#EXTINF:-1,Enlighten Radio
-http://s1.voscast.com:11244/stream.m3u
-#EXTINF:-1,Radio PopNonStop
-http://mscp4.live-streams.nl:8220/autodj.ogg
-#EXTINF:-1,Soul City FM
-http://euk-85965.eukservers.com:8000/soul
-#EXTINF:-1,Radio Calico
-https://radio3.radio-calico.com:8443/calico
-#EXTINF:-1,60North Radio
-http://r5.zetcast.net/flac
-#EXTINF:-1,Radio Audiomastering
-http://radio.audiomastering.lt:8000/pure
-#EXTINF:-1,Tsuiokuyo’s FLAC Anime Music
-http://tsuiokuyo.ddns.net:8764/stream
-#EXTINF:-1,MaXXima
-http://maxxima.mine.nu:8000/maxx.ogg
-#EXTINF:-1,440Hz Radio
-http://stream.440hz-radio.de:8080/440hz.flac.ogg
-#EXTINF:-1,95bFM
-http://streams.95bfm.com/stream112
-#EXTINF:-1,BesideFM
-http://besidefm.ga:8000/stream
-#EXTINF:-1,City Radio
-http://cityradio.ddns.net:8000/cityradio48flac
-#EXTINF:-1,Chill Out Zone Plus
-http://chillout.zone/chillout_plus
-#EXTINF:-1,Danubius Radio
-https://danubiusradio.hu/danubius_HiFi.m3u
-#EXTINF:-1,EasyRadio
-https://easyradio.bg/m3u/easyradio.bg-flac.m3u
-#EXTINF:-1,Free Music Radio
-http://stream.freemusicradio.nl:8100/stream.oga
-#EXTINF:-1,H2O
-http://ice2.ikoula.net-radio.fr/h2oradio.flac
-#EXTINF:-1,Hi On Line Radio
-http://mscp2.live-streams.nl:8100/flac.flac
-#EXTINF:-1,Intense Radio
-https://secure.live-streams.nl/flac.flac
-#EXTINF:-1,JB Radio-2
-https://maggie.torontocast.com:8076/flac
-#EXTINF:-1,Joy Hits
-http://joyhits.online/joyhits.flac.ogg
-#EXTINF:-1,Magic Radio
-http://mp3.magic-radio.net/flac
-#EXTINF:-1,PureClassix Radio
-http://mscp4.live-streams.nl:8140/flac.ogg
-#EXTINF:-1,Radio 2.0
-http://vps.radioduepuntozero.it:8000/stream.ogg.m3u
-#EXTINF:-1,Radio Bias
-https://admin.biasradio.com/radio/8000/flac
-#EXTINF:-1,Radio BluesFlac
-http://streams.radiomast.io/radioblues-flac
-#EXTINF:-1,Radio Haugaland
-http://radioip.no:443/flac
-#EXTINF:-1,Radio Juventus
-http://kemoniastreaming2.net:8060/stream
-#EXTINF:-1,Radio Sputnik
-http://radiosputnik.nl:8002/flac
-#EXTINF:-1,Riverside Radio
-https://stream.and-stuff.nl:8443/riverside
-#EXTINF:-1,Sing Sing
-http://stream.sing-sing-bis.org:8000/singsingFlacSansMetadata
-#EXTINF:-1,SUN
-http://diffusion.lafrap.fr:8000/sun.flac
-#EXTINF:-1,The Cheese
-http://thecheese.ddns.net:8004/stream.m3u
-#EXTINF:-1,XRadio.nl
-http://stream06.dotpoint.nl:8050/xradio.flac
-#EXTINF:-1,Rondo Klasu and Klasu
-http://iradio.fi:8000/klasu.flac
-#EXTINF:-1,Rondo Klasu and Klasu Pro
-http://rondo.iradio.fi:8000/klasupro.flac
-#EXTINF:-1,Radio Paradise Main Mix
-http://stream.radioparadise.com/flac
-#EXTINF:-1,Radio Paradise Main Mix Mellow Mix
-http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1,Radio Paradise Rock Mix
-http://stream.radioparadise.com/rock-flac
-#EXTINF:-1,Radio Paradise Eclectic Mix
-http://stream.radioparadise.com/eclectic-flac
-#EXTINF:-1,BDPST ROCK Radio
-https://s2.audiostream.hu/bdpstrock_FLAC.m3u
-#EXTINF:-1,Juventus Radio
-https://radiojuventus.hu/juventus_FLAC.m3u
-#EXTINF:-1,Mother Earth Radio
-http://server9.streamserver24.com:18900/motherearth
-#EXTINF:-1,Mother Earth Klassik
-http://server9.streamserver24.com:18910/motherearth.klassik
-#EXTINF:-1,Mother Earth Instrumental
-http://server9.streamserver24.com:18920/motherearth.instrumental
-#EXTINF:-1,Czech Radio ČRo Vltava
-http://amp.cesnet.cz:8000/cro3.flac
-#EXTINF:-1,Czech Radio ČRo D-dur
-http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:-1,Czech Radio ČRo Jazz
-http://amp.cesnet.cz:8000/cro-jazz.flac
-#EXTINF:-1,Czech Radio ČRo Radio Wave
-http://amp.cesnet.cz:8000/cro-radio-wave.flac
-#EXTINF:-1,Dance Wave
-https://dancewave.online/dance.flac.ogg.m3u
-#EXTINF:-1,Dance Wave Retro!
-https://retro.dancewave.online/retrodance.flac.ogg.m3u
-#EXTINF:-1,Fréquence 3
-https://frequence3.net-radio.fr/frequence3.flac
-#EXTINF:-1,Fréquence 3 Dance
-https://frequence3.net-radio.fr/frequence3dance.flac
-#EXTINF:-1,Fréquence 3 Gold
-https://frequence3.net-radio.fr/frequence3gold.flac
-#EXTINF:-1,Fréquence 3 Urban
-https://frequence3.net-radio.fr/frequence3urban.flac
-#EXTINF:-1,Fréquence 3 World
-https://frequence3.net-radio.fr/frequence3world.flac
-#EXTINF:-1,Naim Classical
-https://mscp3.live-streams.nl:8252/class-flac.flac
-#EXTINF:-1,Naim Jazz
-https://mscp3.live-streams.nl:8342/jazz-flac.flac
-#EXTINF:-1,Naim Radio
-http://mscp3.live-streams.nl:8360/flac.flac
-#EXTINF:-1,My Radio
+#EXTINF:0,원음방송 서울
 https://wbsradio.kr/wbs-seoul
+#EXTINF:0,원음방송 부산
+https://wbsradio2.kr/wbs-b
+#EXTINF:0,원음방송 대구
+https://wbsradio2.kr/wbs-d
+#EXTINF:0,원음방송 광주
+https://wbsradio2.kr/wbs-g
+#EXTINF:0,원음방송 전북
+https://wbsradio2.kr/wbs-j
+#EXTINF:0,TBN 한국교통방송 부산
+http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 광주
+http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 대구
+http://radio2.tbn.or.kr:1935/daegu/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 대전
+http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 경인
+http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 강원
+http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 전북
+http://radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 울산
+http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 경남
+http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 경북
+http://radio2.tbn.or.kr:1935/kyungbuk/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 제주
+http://radio2.tbn.or.kr:1935/jeju/myStream/playlist.m3u8
+#EXTINF:0,TBN 한국교통방송 충북
+http://radio2.tbn.or.kr:1935/chungbuk/myStream/playlist.m3u8
+#EXTINF:0,Oldpop Cafe
+http://cast.page2.kr:7080
+#EXTINF:0,YTN RADIO
+https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+#EXTINF:0,RFA 자유아시아방송
+https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
+#EXTINF:0,라디오코리아
+https://onairweb.radiokorea.com/live;stream/1
+#EXTINF:0,라디오 서울
+http://45.58.5.209:8000/radioseoul.mp3
+#EXTINF:0,라디오 한국
+http://50.222.186.230:8080/stream
+#EXTINF:0,AFN HUMPHREYS
+https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
+#EXTINF:0,AFN DAEGU
+https://24943.live.streamtheworld.com/AFNP_DGUAAC.aac
+#EXTINF:0,AFN IWAKUNI
+https://14943.live.streamtheworld.com/AFNP_IWAAAC.aac
+#XTINF:0,AFN KUNSAN
+https://22733.live.streamtheworld.com/AFNP_KSNAAC.aac
+#EXTINF:0,AFN MISAWA
+https://24933.live.streamtheworld.com/AFNP_MSWAAC.aac
+#EXTINF:0,AFN OKINAWA
+https://27823.live.streamtheworld.com/AFNP_OKNAAC.aac
+#EXTINF:0,AFN SASEBO
+https://17803.live.streamtheworld.com/AFNP_SBOAAC.aac
+#EXTINF:0,AFN TOKYO
+https://28953.live.streamtheworld.com/AFNP_TKOAAC.aac
+#EXTINF:0,AFN AVIANO
+https://25293.live.streamtheworld.com/AFNE_AVNAAC.aac
+#EXTINF:0,AFN BAHRAIN
+https://25453.live.streamtheworld.com/AFNE_BHNAAC.aac
+#EXTINF:0,AFN BENELUX
+https://28503.live.streamtheworld.com/AFNE_BLXAAC.aac
+#EXTINF:0,AFN GUANTANAMO BAY
+https://25703.live.streamtheworld.com/AFNE_GMOAAC.aac
+#EXTINF:0,AFN INCIRLIK
+https://27753.live.streamtheworld.com/AFNE_ICKAAC.aac
+#EXTINF:0,AFN KAISERSLAUTERN
+https://23543.live.streamtheworld.com/AFNE_KTNAAC.aac
+#EXTINF:0,AFN NAPLES
+https://25493.live.streamtheworld.com/AFNE_NAPAAC.aac
+#EXTINF:0,AFN ROTA
+https://20073.live.streamtheworld.com/AFNE_RTAAAC.aac
+#EXTINF:0,AFN SIGONELLA
+https://25603.live.streamtheworld.com/AFNE_SIGAAC.aac
+#EXTINF:0,AFN SOUDA BAY
+https://27913.live.streamtheworld.com/AFNE_SDBAAC.aac
+#EXTINF:0,AFN SPANGDAHLEM
+https://25453.live.streamtheworld.com/AFNE_SPGAAC.aac
+#EXTINF:0,AFN STUTTGART
+https://29083.live.streamtheworld.com/AFNE_STUAAC.aac
+#EXTINF:0,AFN VICENZA
+https://27823.live.streamtheworld.com/AFNE_VICAAC.aac
+#EXTINF:0,AFN WIESBADEN
+https://28513.live.live.streamtheworld.com/AFNE_WBNAAC.aac
+#EXTINF:0,JAZZ 24
+https://live.wostreaming.net/playlist/ppm-jazz24aac256-ibc1.m3u
+#EXTINF:0,Linn Radio
+http://radio.linn.co.uk:8003/autodj
+#EXTINF:0,Linn Jazz
+http://radio.linn.co.uk:8000/autodj
+#EXTINF:0,Linn Classical
+http://radio.linn.co.uk:8004/autodj
+#EXTINF:0,클래식 HI-FI
+http://hifi.saycast.com/listen.pls
+#EXTINF:0,La Radio de la Mer
+https://streaming.lamer.live/laradiodelamer-uhd.flac
+#EXTINF:0,Bailrigg 95.3FM
+https://bfm-stream.lancs.ac.uk/flac
+#EXTINF:0,ForEver La Radio Bordeaux
+http://stream.sweetfm.fr:8000/flac-forever-bdx
+#EXTINF:0,ForEver La Radio Arcachon
+http://stream.sweetfm.fr:8000/flac-forever-arc
+#EXTINF:0,Sanctuary Radio Dark Electro Channel
+http://66.94.113.88:8000/ultra_hq
+#EXTINF:0,Sanctuary Radio 80’s Alternative Channel
+http://66.94.113.88:8000/retro_ultra_hq
+#EXTINF:0,Sanctuary Radio Club Mix Channel
+http://66.94.113.88:8000/clubmix_ultra_hq
+#EXTINF:0,Radio BluesFlac
+https://streams.radiomast.io/radioblues-flac
+#EXTINF:0,Pure Lounge Radio
+https://mscp4.live-streams.nl:8142/lounge.ogg
+#EXTINF:0,Pure Radio Holland The Undergound Channel
+https://streamserver.pure-isp.eu/radio/8000/flac
+#EXTINF:0,Pure Radio Holland Trance-Electro Channel
+https://streamserver.pure-isp.eu/radio/8020/flac
+#EXTINF:0,Pure Radio Holland Hardcore Channel
+https://streamserver.pure-isp.eu/radio/8010/flac
+#EXTINF:0,Pure Radio Holland DownTempo Channel
+https://streamserver.pure-isp.eu/radio/8040/flac
+#EXTINF:0,Pure Radio Holland Live Party Channel
+https://streamserver.pure-isp.eu/radio/8060/flac
+#EXTINF:0,Pure Radio Holland Dance Channel
+https://streamserver.pure-isp.eu/radio/8030/flac
+#EXTINF:0,Pure Radio Holland DJ R.I.P.’s Podcast
+https://streamserver.pure-isp.eu/radio/8050/flac
+#EXTINF:0,Pure Radio Holland Various Channel
+https://streamserver.pure-isp.eu/radio/8070/flac
+#EXTINF:0,Pure Radio Holland Rap & HIP-HOP Channel
+https://streamserver.pure-isp.eu/radio/8100/flac
+#EXTINF:0,Ultimix
+http://stream.ultimix.fr:1050/stream
+#EXTINF:0,Enlighten Radio
+http://s1.voscast.com:11244/stream.m3u
+#EXTINF:0,Radio PopNonStop
+http://mscp4.live-streams.nl:8220/autodj.ogg
+#EXTINF:0,Soul City FM
+http://euk-85965.eukservers.com:8000/soul
+#EXTINF:0,Radio Calico
+https://radio3.radio-calico.com:8443/calico
+#EXTINF:0,60North Radio
+http://r5.zetcast.net/flac
+#EXTINF:0,Radio Audiomastering
+http://radio.audiomastering.lt:8000/pure
+#EXTINF:0,Tsuiokuyo’s FLAC Anime Music
+http://tsuiokuyo.ddns.net:8764/stream
+#EXTINF:0,MaXXima
+http://maxxima.mine.nu:8000/maxx.ogg
+#EXTINF:0,440Hz Radio
+http://stream.440hz-radio.de:8080/440hz.flac.ogg
+#EXTINF:0,95bFM
+http://streams.95bfm.com/stream112
+#EXTINF:0,BesideFM
+http://besidefm.ga:8000/stream
+#EXTINF:0,City Radio
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:0,Chill Out Zone Plus
+http://chillout.zone/chillout_plus
+#EXTINF:0,Danubius Radio
+https://danubiusradio.hu/danubius_HiFi.m3u
+#EXTINF:0,EasyRadio
+https://easyradio.bg/m3u/easyradio.bg-flac.m3u
+#EXTINF:0,Free Music Radio
+http://stream.freemusicradio.nl:8100/stream.oga
+#EXTINF:0,H2O
+http://ice2.ikoula.net-radio.fr/h2oradio.flac
+#EXTINF:0,Hi On Line Radio
+http://mscp2.live-streams.nl:8100/flac.flac
+#EXTINF:0,Intense Radio
+https://secure.live-streams.nl/flac.flac
+#EXTINF:0,JB Radio-2
+https://maggie.torontocast.com:8076/flac
+#EXTINF:0,Joy Hits
+http://joyhits.online/joyhits.flac.ogg
+#EXTINF:0,Magic Radio
+http://mp3.magic-radio.net/flac
+#EXTINF:0,PureClassix Radio
+http://mscp4.live-streams.nl:8140/flac.ogg
+#EXTINF:0,Radio 2.0
+http://vps.radioduepuntozero.it:8000/stream.ogg.m3u
+#EXTINF:0,Radio Bias
+https://admin.biasradio.com/radio/8000/flac
+#EXTINF:0,Radio BluesFlac
+http://streams.radiomast.io/radioblues-flac
+#EXTINF:0,Radio Haugaland
+http://radioip.no:443/flac
+#EXTINF:0,Radio Juventus
+http://kemoniastreaming2.net:8060/stream
+#EXTINF:0,Radio Sputnik
+http://radiosputnik.nl:8002/flac
+#EXTINF:0,Riverside Radio
+https://stream.and-stuff.nl:8443/riverside
+#EXTINF:0,Sing Sing
+http://stream.sing-sing-bis.org:8000/singsingFlacSansMetadata
+#EXTINF:0,SUN
+http://diffusion.lafrap.fr:8000/sun.flac
+#EXTINF:0,The Cheese
+http://thecheese.ddns.net:8004/stream.m3u
+#EXTINF:0,XRadio.nl
+http://stream06.dotpoint.nl:8050/xradio.flac
+#EXTINF:0,Rondo Klasu and Klasu
+http://iradio.fi:8000/klasu.flac
+#EXTINF:0,Rondo Klasu and Klasu Pro
+http://rondo.iradio.fi:8000/klasupro.flac
+#EXTINF:0,Radio Paradise Main Mix
+http://stream.radioparadise.com/flac
+#EXTINF:0,Radio Paradise Main Mix Mellow Mix
+http://stream.radioparadise.com/mellow-flac
+#EXTINF:0,Radio Paradise Rock Mix
+http://stream.radioparadise.com/rock-flac
+#EXTINF:0,Radio Paradise Eclectic Mix
+http://stream.radioparadise.com/eclectic-flac
+#EXTINF:0,BDPST ROCK Radio
+https://s2.audiostream.hu/bdpstrock_FLAC.m3u
+#EXTINF:0,Juventus Radio
+https://radiojuventus.hu/juventus_FLAC.m3u
+#EXTINF:0,Mother Earth Radio
+http://server9.streamserver24.com:18900/motherearth
+#EXTINF:0,Mother Earth Klassik
+http://server9.streamserver24.com:18910/motherearth.klassik
+#EXTINF:0,Mother Earth Instrumental
+http://server9.streamserver24.com:18920/motherearth.instrumental
+#EXTINF:0,Czech Radio ČRo Vltava
+http://amp.cesnet.cz:8000/cro3.flac
+#EXTINF:0,Czech Radio ČRo D-dur
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+#EXTINF:0,Czech Radio ČRo Jazz
+http://amp.cesnet.cz:8000/cro-jazz.flac
+#EXTINF:0,Czech Radio ČRo Radio Wave
+http://amp.cesnet.cz:8000/cro-radio-wave.flac
+#EXTINF:0,Dance Wave
+https://dancewave.online/dance.flac.ogg.m3u
+#EXTINF:0,Dance Wave Retro!
+https://retro.dancewave.online/retrodance.flac.ogg.m3u
+#EXTINF:0,Fréquence 3
+https://frequence3.net-radio.fr/frequence3.flac
+#EXTINF:0,Fréquence 3 Dance
+https://frequence3.net-radio.fr/frequence3dance.flac
+#EXTINF:0,Fréquence 3 Gold
+https://frequence3.net-radio.fr/frequence3gold.flac
+#EXTINF:0,Fréquence 3 Urban
+https://frequence3.net-radio.fr/frequence3urban.flac
+#EXTINF:0,Fréquence 3 World
+https://frequence3.net-radio.fr/frequence3world.flac
+#EXTINF:0,Naim Classical
+https://mscp3.live-streams.nl:8252/class-flac.flac
+#EXTINF:0,Naim Jazz
+https://mscp3.live-streams.nl:8342/jazz-flac.flac
+#EXTINF:0,Naim Radio
+http://mscp3.live-streams.nl:8360/flac.flac
