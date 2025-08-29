@@ -115,10 +115,10 @@ http://50.222.186.230:8080/stream
 https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
 #EXTINF:0,AFN DAEGU
 https://24943.live.streamtheworld.com/AFNP_DGUAAC.aac
+#EXTINF:0,AFN Kunsan
+https://22733.live.streamtheworld.com/AFNP_KSNAAC.aac
 #EXTINF:0,AFN IWAKUNI
 https://14943.live.streamtheworld.com/AFNP_IWAAAC.aac
-#XTINF:0,AFN KUNSAN
-https://22733.live.streamtheworld.com/AFNP_KSNAAC.aac
 #EXTINF:0,AFN MISAWA
 https://24933.live.streamtheworld.com/AFNP_MSWAAC.aac
 #EXTINF:0,AFN OKINAWA
