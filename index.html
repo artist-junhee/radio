@@ -29,6 +29,19 @@
     <!-- Brand Styles -->
     <link rel="stylesheet" href="css/brands.css">
 
+  <!-- Custom Font (Supernovice Lab yangjin) -->
+  <style>
+    @font-face {
+      font-family: 'yangjin';
+      src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'yangjin', sans-serif;
+    }
+  </style>
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -69,50 +82,22 @@
         <h1 role="heading">라디오보이</h1>
 
         <!-- Short Bio -->
-        <p>라디오 좋아하는 07년생입니다.</p> <br>사진 · 영상 전문으로 제작하는 예술가를 꿈꾸는 사람.</p>
+        <p>라디오 좋아하는 07년생입니다.<br>사진 · 영상 전문으로 제작하는 예술가를 꿈꾸는 사람.</p>
 
-        <!--
-
-          ## Breaking down <a> attributes:
-          
-          1.) class="button button-default" | The first "button" here is telling this <a> tag that it should make this element a button and applies the default styling in `css/brands.css`.
-          The second portion, button-default, is declaring the specific brand style you would like to apply. Here we're applying the "default" style and color.
-          If you want to make this button to use the brand colors for Discord, just change "button-default" to "button-discord". Brands are found in `css/brands.css`. You can always edit & add your own there.
-
-          2.) Replace the # in href="#" with the desired target URL for the button.
-
-          3.) target="_blank" | This attribute opens links in a new tab. Remove this attribute to prevent links from opening in a new tab.
-
-          4.) rel="noopener" | This attribute instructs the browser to navigate to the target resource without granting the new browsing context access to the document that opened it.
-          This is especially useful when opening untrusted links. https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/noopener
-
-          5.) role="button" | The button role identifies an element as a button to assistive technology such as screen readers.
-
-          ## Breaking down the <img> attributes:
-          
-          1.) class="icon" | This class is telling the <img> tag that it should use the styling for icons found in `css/brands.css`.
-
-          2.) src="images/icons/[icon-name].svg" | This defines the icon you would like to display from the 'images/icons/' folder. For example, you can change this to src="images/icons/discord.svg" to use the Discord icon.
-          Add your own 24x24 icons to the "icons" folder to reference them. We recommend providing a SVG.
-
-          3.) alt="" | Since the text at the end of the snippet, "..>[Button Text]</a><br>", explains what the button is, we use "alt=""" to nullify the icon annoucement from the accessibility tree. 
-          This can improve the experience for assistive technology users by hiding what is essentially duplicated
-
-        -->
         <!-- Generic Email -->
-        <a class="button button-default" href="mailto:radioboy@teamsmile.xyz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/generic-email.svg" alt="">Business email </a><br>
+        <a class="button button-default" href="mailto:radioboy@teamsmile.xyz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/generic-email.svg" alt=""> Business email </a><br>
         
         <!-- Github -->
-        <a class="button button-github" href="https://open.kakao.com/me/Smile_Radio" target="_blank" rel="noopener" role="button"><img class="icon" src="images/KakaoTalk.svg" alt="">카카오톡 직통 오픈 프로필 연락처</a><br>
+        <a class="button button-github" href="https://open.kakao.com/me/Smile_Radio" target="_blank" rel="noopener" role="button"><img class="icon" src="images/KakaoTalk.svg" alt=""> 카카오톡 직통 오픈 프로필 연락처</a><br>
 
         <!-- YouTube -->
-        <a class="button button-yt" href="#" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="images/icons/youtube.svg" alt="YouTube Logo">YouTube</a>
+        <a class="button button-yt" href="https://www.youtube.com/@ROK_Radio_Boy" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="images/icons/youtube.svg" alt="YouTube Logo"> 라디오보이의 유튜브 채널</a><br>
 
         <!-- Github -->
-        <a class="button button-github" href="https://github.com/artist-junhee/radio" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/github.svg" alt="">GITHUB (깃허브) 개발 페이지</a><br>
+        <a class="button button-github" href="https://github.com/artist-junhee/radio" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/github.svg" alt=""> GITHUB (깃허브) 개발 페이지</a><br>
         
         <!-- Github -->
-        <a class="button button-github" href="https://radio.smileboy.xyz/webradio.html" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/generic-cloud.svg" alt="">끝판왕 인터넷 라디오 플리 모음집</a><br>  
+        <a class="button button-github" href="https://radio.smileboy.xyz/webradio.html" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/generic-cloud.svg" alt=""> 끝판왕 인터넷 라디오 플리 모음집</a><br>  
 
         <p><a href="privacy.html">Privacy Policy</a> | Build your own by forking <a href="https://littlelink.io" target="_blank" rel="noopener" role="button">LittleLink</a>.</p>
       </div>
