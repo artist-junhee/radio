@@ -109,6 +109,8 @@ http://radio2.tbn.or.kr:1935/chungbuk/myStream/playlist.m3u8
 http://cast.page2.kr:7080
 #EXTINF:-1,YTN RADIO
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+#EXTINF:-1,RADIO VATICANA
+https://radio.vaticannews.va/stream-en
 #EXTINF:-1,RFA 자유아시아방송
 https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
 #EXTINF:-1,라디오코리아
@@ -117,8 +119,6 @@ https://onairweb.radiokorea.com/live;stream/1
 http://45.58.5.209:8000/radioseoul.mp3
 #EXTINF:-1,라디오 한국
 http://50.222.186.230:8080/stream
-#EXTINF:-1,RADIO VATICANA
-https://radio.vaticannews.va/stream-en
 #EXTINF:-1,AFN HUMPHREYS
 https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
 #EXTINF:-1,AFN DAEGU
@@ -165,7 +165,6 @@ https://27823.live.streamtheworld.com/AFNE_VICAAC.aac
 https://28513.live.live.streamtheworld.com/AFNE_WBNAAC.aac
 #EXTINF:-1,BBC - BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-RADIO VATICANA
 #EXTINF:-1,JAZZ 24
 https://knkx-live-a.edge.audiocdn.com/6285_256k
 #EXTINF:-1,Linn Radio
