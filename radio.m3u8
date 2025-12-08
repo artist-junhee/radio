@@ -119,6 +119,8 @@ https://onairweb.radiokorea.com/live;stream/1
 http://45.58.5.209:8000/radioseoul.mp3
 #EXTINF:-1,라디오 한국
 http://50.222.186.230:8080/stream
+#EXTINF:-1,우리방송
+https://free.rcast.net/72974
 #EXTINF:-1,AFN HUMPHREYS
 https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
 #EXTINF:-1,AFN DAEGU
