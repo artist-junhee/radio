@@ -4,7 +4,7 @@ https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/chunklist.m3u8
 #EXTINF:-1,CBS 음악 FM (93.9)
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8
 #EXTINF:-1,CBS JOY4U
-https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/chunklist.m3u8
+https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
 #EXTINF:-1,KBS 1 라디오 (97.3)
 http://serpent0.duckdns.org:8088/kbs1radio.pls
 #EXTINF:-1,KBS 2 라디오 (106.1)
@@ -28,13 +28,59 @@ https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8
 #EXTINF:-1,EBS FM (104.5)
 http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
 #EXTINF:-1,EBS (반디 외국어 전문)
-https://ebsonair.ebs.co.kr/cloud/iradio/playlist.m3u8
+https://ebsonair.ebs.co.kr/cloud1/iradio/playlist.m3u8
 #EXTINF:-1,국방FM
 https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 #EXTINF:-1,국악방송 (99.1)
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1,OBS 라디오
 https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
+#EXTINF:-1,iFM 경인방송
+https://stream.ifm.kr/live/aod1/chunklist_0_audio_5097359403294618776_llhls.m3u8
+#EXTINF:-1,SCN 성서공동체FM
+http://115.85.182.39/scnfm
+#EXTINF:-1,영주 FM
+http://icecast.radios.kr:8000/yeongjufm
+#EXTINF:-1,성남 FM
+http://115.85.182.39/seongnamfm
+#EXTINF:-1,마포 FM
+http://onair.mapofm.net/mapofm
+#EXTINF:-1,금강 FM
+http://121.183.240.143:8000/KKFM1
+#EXTINF:-1,관악 FM
+http://icecast.radios.kr:8000/gwanakfm
+#EXTINF:-1,광주 FM
+https://radiostream.communityradio.kr/live
+#EXTINF:-1,옥천 FM
+http://115.68.193.176:8000/obn
+#EXTINF:-1,성주 FM
+http://icecast.radios.kr:8000/sjfm
+#EXTINF:-1,GBS 고려방송
+http://115.68.193.176:8000/crfm
+#EXTINF:-1,세종 FM
+http://icecast.radios.kr:8000/sejongfm
+#EXTINF:-1,한밭 FM
+http://115.68.194.186:8000/hanbatfm
+#EXTINF:-1,남해 FM
+http://115.68.193.176:8000/namhaefm
+#EXTINF:-1,서대문공동체라디오
+http://115.68.193.176:8000/sdmfm
+#EXTINF:-1,수원FM (SoneFM)
+http://115.85.182.39/sonefm
+#EXTINF:-1,전주 FM
+https://radiostream.communityradio.kr/jcfm1
+#EXTINF:-1,연제 FM
+http://115.68.193.176:8000/yeonjefm
+#EXTINF:-1,단원 FM
+https://radiostream.communityradio.kr/dwfm1
+#EXTINF:-1,대구 동구 FM
+http://icecast.radios.kr:8000/daegufm
+#EXTINF:-1,상주 FM
+http://icecast.radios.kr:8000/sangjufm
+#EXTINF:-1,태백 FM
+hhttp://icecast.radios.kr:8000/taebaekfm
+#EXTINF:-1,GO구리FM
+http://115.68.193.176:8000/gurifm
 #EXTINF:-1,Arirang radio
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1,부산영어방송 (BEFM)
@@ -121,6 +167,8 @@ http://45.58.5.209:8000/radioseoul.mp3
 http://50.222.186.230:8080/stream
 #EXTINF:-1,우리방송
 https://free.rcast.net/72974
+#EXTINF:-1,DKnet
+https://us1new.listen2myradio.com:2199/listen.php?port=10095&type=s2&mount=/stream
 #EXTINF:-1,AFN HUMPHREYS
 https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
 #EXTINF:-1,AFN DAEGU
