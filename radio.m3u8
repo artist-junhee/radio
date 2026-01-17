@@ -165,14 +165,22 @@ https://radio.vaticannews.va/stream-en
 https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
 #EXTINF:-1,라디오코리아
 https://onairweb.radiokorea.com/live;stream/1
+#EXTINF:-1,라디오코리아 뉴욕
+https://das-edge63-live365-dal03.cdnstream.com/a48202
 #EXTINF:-1,라디오 서울
 http://45.58.5.209:8000/radioseoul.mp3
 #EXTINF:-1,라디오 한국
 http://50.222.186.230:8080/stream
+#EXTINF:-1,애틀랜타 라디오 코리아
+https://s2.radio.co/s481a3f747/listen
 #EXTINF:-1,우리방송
 https://free.rcast.net/72974
 #EXTINF:-1,DKnet
 https://us1new.listen2myradio.com:2199/listen.php?port=10095&type=s2&mount=/stream
+#EXTINF:-1,K-RADIO (AM 1660)
+https://streams.radio.co/s839c1142b/listen
+#EXTINF:-1,K-RADIO (AM 1310)
+https://s5.radio.co/s0a9796fe3/listen
 #EXTINF:-1,AFN HUMPHREYS
 https://27153.live.streamtheworld.com/AFNP_OSNAAC.aac
 #EXTINF:-1,AFN DAEGU
