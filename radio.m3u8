@@ -36,7 +36,7 @@ http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1,OBS 라디오
 https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
 #EXTINF:-1,iFM 경인방송
-https://stream.ifm.kr/live/aod1/chunklist_0_audio_5097359403294618776_llhls.m3u8
+https://stream.ifm.kr/live/bora1/playlist.m3u8
 #EXTINF:-1,SCN 성서공동체FM
 http://115.85.182.39/scnfm
 #EXTINF:-1,영주 FM
@@ -381,3 +381,4 @@ https://mscp3.live-streams.nl:8252/class-flac.flac
 https://mscp3.live-streams.nl:8342/jazz-flac.flac
 #EXTINF:-1,Naim Radio
 http://mscp3.live-streams.nl:8360/flac.flac
+
