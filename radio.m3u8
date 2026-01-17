@@ -115,8 +115,12 @@ http://mlive3.febc.net:1935/live/jndblive/playlist.m3u8
 http://mlive3.febc.net:1935/live/jblive/playlist.m3u8
 #EXTINF:-1,평화방송
 https://onair1.cpbc.co.kr:8888/live/Instreamer.stream_aac/playlist.m3u8
-#EXTINF:-1,불교방송
-https://bbslive.clouducs.com/bbsradio-live/livestream/playlist.m3u8
+#EXTINF:-1,BBS 불교방송
+https://bbslive.clouducs.com/bbsradio-mlive/radio.stream/playlist.m3u8
+#EXTINF:-1,BTN 라디오 (울림 채널)
+https://btn.nowcdn.co.kr/btn_ch4st/live.stream/playlist.m3u8
+#EXTINF:-1,BTN 라디오 (불교 채널)
+https://btn.nowcdn.co.kr/btn_ch1st/live.stream/playlist.m3u8
 #EXTINF:-1,원음방송 서울
 https://wbsradio.kr/wbs-seoul
 #EXTINF:-1,원음방송 부산
